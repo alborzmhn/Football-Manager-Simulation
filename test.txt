@@ -1,0 +1,23 @@
+GET players ? team AFC_Bournemouth ranks
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+GET players ? team AFC_Bournemouth ranks
+GET team_of_the_week ? 
+POST pass_week
+POST pass_week
+POST pass_week
+GET matches_result_league ?
+POST pass_week
+GET league_standings 
+POST pass_week
+POST pass_week
+GET team_of_the_week ? 
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+GET players ? team Wolves ranks
+GET team_of_the_week ? week 1
+GET matches_result_league ? week 1

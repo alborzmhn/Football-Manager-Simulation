@@ -1,0 +1,15 @@
+POST pass_week
+POST register_admin ? username admin password 123456
+POST pass_week
+POST close_transfer_window
+POST logout
+POST signup ? team_name ssmilan password 123123
+POST pass_week
+POST buy_player ? name A. Ramsdale
+POST logout
+POST register_admin ? username admin password 123456
+POST open_transfer_window
+POST logout
+POST login ? team_name ssmilan password 123123
+POST pass_week
+POST buy_player ? name Owen Goodman

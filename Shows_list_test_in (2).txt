@@ -1,0 +1,36 @@
+POST signup ? team_name hashtsenal password 123123
+POST buy_player ? name A. Ramsdale
+POST buy_player ? name Gabriel Magalhaes
+POST buy_player ? name B. White
+POST buy_player ? name Jorginho
+POST buy_player ? name Gabriel Jesus
+POST logout
+POST signup ? team_name nadia_naft_alcity password 123123
+POST buy_player ? name Ederson
+POST buy_player ? name J. Stones
+POST buy_player ? name Ruben Dias
+POST buy_player ? name K. De Bruyne
+POST buy_player ? name E. Haaland
+POST logout
+POST signup ? team_name shishchester password 123123
+POST buy_player ? name D. De Gea
+POST buy_player ? name R. Varane
+POST buy_player ? name Lisandro Martinez
+POST buy_player ? name Bruno Fernandes
+POST buy_player ? name M. Rashford
+POST logout
+POST register_admin ? username admin password 123456
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST pass_week
+POST logout
+POST login ? team_name hashtsenal password 123123
+GET squad ? 
+GET league_standings
+GET users_ranking
+GET matches_result_league ? 
+GET team_of_the_week ? 
+GET players ? team_name Wolves

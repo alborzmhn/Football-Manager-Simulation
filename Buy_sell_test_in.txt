@@ -1,0 +1,24 @@
+POST signup ? team_name ssmilan password 123123
+POST buy_player ? name Asghar
+POST buy_player ? name Sam Johnstone
+POST buy_player ? name Alisson
+POST buy_player ? name Marc Guehi
+POST buy_player ? name Marc Guehi
+POST buy_player ? name J. Andersen
+POST buy_player ? name T. Mitchell
+POST buy_player ? name B. Saka
+POST buy_player ? name Gabriel Jesus
+POST buy_player ? name Martinelli
+POST logout
+POST register_admin ? username admin password 123456
+POST pass_week
+POST logout
+POST login ? team_name ssmilan password 123123
+POST sell_player ? name Asghar
+POST sell_player ? name Douglas Luiz
+POST sell_player ? name B. Saka
+POST sell_player ? name Gabriel Jesus
+POST sell_player ? name J. Andersen
+POST buy_player ? name A. Ramsdale
+POST buy_player ? name Kadan Young
+POST buy_player ? name Stefan Bajcetic

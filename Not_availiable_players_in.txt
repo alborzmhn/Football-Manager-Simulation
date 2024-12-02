@@ -1,0 +1,17 @@
+POST signup ? team_name GodratSenal password 123123
+POST buy_player ? name A. Ramsdale
+POST buy_player ? name Gabriel Magalhaes
+POST buy_player ? name B. White
+POST buy_player ? name Jorginho
+POST buy_player ? name Reiss Nelson
+POST buy_player ? name Gabriel Jesus
+POST logout
+POST register_admin ? username admin password 123456
+POST pass_week
+POST pass_week
+POST logout
+POST login ? team_name GodratSenal password 123123
+POST sell_player ? name Jorginho
+POST buy_player ? name Stefan Bajcetic
+POST buy_player ? name M. Sabitzer
+POST buy_player ? name L. Dendoncker
